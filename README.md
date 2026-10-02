@@ -240,6 +240,10 @@ The current Career Assistant uses rule-based logic and job-market data rather th
 
 The project provides REST API endpoints using FastAPI.
 
+### Swagger API Preview
+
+![FastAPI Swagger UI](./dashboard/swagger_api.png)
+
 ### API Endpoints
 
 #### Home
