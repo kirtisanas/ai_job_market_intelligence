@@ -311,6 +311,9 @@ Example:
 
 Power BI is used to visualize job-market skill demand.
 
+## Dashboard Preview
+![Power BI Dashboard](./dashboard/powerbi_dashboard.png)
+
 The dashboard contains:
 
 - Total Skill Mentions
