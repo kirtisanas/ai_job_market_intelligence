@@ -1,0 +1,34 @@
+skill,category,job_count
+python,Programming,903
+sql,Data & Analytics,855
+java,Programming,623
+aws,Cloud,517
+javascript,Programming,458
+c++,Programming,394
+azure,Cloud,386
+machine learning,Machine Learning,364
+kubernetes,DevOps,295
+docker,DevOps,289
+c#,Programming,284
+html,Web Development,262
+r,Programming,259
+react,Web Development,259
+statistics,Data & Analytics,256
+git,DevOps,242
+gcp,Cloud,218
+excel,Data & Analytics,194
+css,Web Development,183
+tableau,Data & Analytics,138
+power bi,Data & Analytics,92
+github,DevOps,92
+mysql,Databases,83
+pytorch,Machine Learning,72
+postgresql,Databases,69
+deep learning,Machine Learning,68
+tensorflow,Machine Learning,57
+scikit-learn,Machine Learning,31
+pandas,Data & Analytics,28
+numpy,Data & Analytics,25
+django,Web Development,24
+flask,Web Development,17
+fastapi,Web Development,9

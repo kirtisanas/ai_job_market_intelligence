@@ -1,0 +1,94 @@
+role,skill,job_count,percentage,category
+Data Analyst,python,139,34.07,Programming
+Data Analyst,sql,246,60.29,Data & Analytics
+Data Analyst,excel,147,36.03,Data & Analytics
+Data Analyst,power bi,64,15.69,Data & Analytics
+Data Analyst,tableau,84,20.59,Data & Analytics
+Data Analyst,pandas,2,0.49,Data & Analytics
+Data Analyst,numpy,3,0.74,Data & Analytics
+Data Analyst,machine learning,54,13.24,Machine Learning
+Data Analyst,deep learning,1,0.25,Machine Learning
+Data Analyst,scikit-learn,2,0.49,Machine Learning
+Data Analyst,tensorflow,1,0.25,Machine Learning
+Data Analyst,pytorch,1,0.25,Machine Learning
+Data Analyst,statistics,85,20.83,Data & Analytics
+Data Analyst,r,61,14.95,Programming
+Data Analyst,mysql,3,0.74,Databases
+Data Analyst,postgresql,4,0.98,Databases
+Data Analyst,aws,32,7.84,Cloud
+Data Analyst,azure,20,4.9,Cloud
+Data Analyst,gcp,3,0.74,Cloud
+Data Analyst,git,7,1.72,DevOps
+Data Analyst,github,4,0.98,DevOps
+Data Analyst,docker,3,0.74,DevOps
+Data Analyst,kubernetes,3,0.74,DevOps
+Data Analyst,java,11,2.7,Programming
+Data Analyst,javascript,45,11.03,Programming
+Data Analyst,c++,41,10.05,Programming
+Data Analyst,c#,38,9.31,Programming
+Data Analyst,html,42,10.29,Web Development
+Data Analyst,css,1,0.25,Web Development
+Data Scientist,python,211,85.43,Programming
+Data Scientist,sql,147,59.51,Data & Analytics
+Data Scientist,excel,18,7.29,Data & Analytics
+Data Scientist,power bi,16,6.48,Data & Analytics
+Data Scientist,tableau,46,18.62,Data & Analytics
+Data Scientist,pandas,19,7.69,Data & Analytics
+Data Scientist,numpy,15,6.07,Data & Analytics
+Data Scientist,machine learning,176,71.26,Machine Learning
+Data Scientist,deep learning,49,19.84,Machine Learning
+Data Scientist,scikit-learn,20,8.1,Machine Learning
+Data Scientist,tensorflow,32,12.96,Machine Learning
+Data Scientist,pytorch,44,17.81,Machine Learning
+Data Scientist,statistics,154,62.35,Data & Analytics
+Data Scientist,r,141,57.09,Programming
+Data Scientist,mysql,6,2.43,Databases
+Data Scientist,postgresql,3,1.21,Databases
+Data Scientist,aws,59,23.89,Cloud
+Data Scientist,azure,27,10.93,Cloud
+Data Scientist,gcp,25,10.12,Cloud
+Data Scientist,git,13,5.26,DevOps
+Data Scientist,github,6,2.43,DevOps
+Data Scientist,docker,25,10.12,DevOps
+Data Scientist,kubernetes,14,5.67,DevOps
+Data Scientist,flask,2,0.81,Web Development
+Data Scientist,java,22,8.91,Programming
+Data Scientist,javascript,13,5.26,Programming
+Data Scientist,c++,17,6.88,Programming
+Data Scientist,c#,2,0.81,Programming
+Data Scientist,html,8,3.24,Web Development
+Data Scientist,css,2,0.81,Web Development
+Data Scientist,react,2,0.81,Web Development
+Software Engineer,python,553,38.51,Programming
+Software Engineer,sql,462,32.17,Data & Analytics
+Software Engineer,excel,29,2.02,Data & Analytics
+Software Engineer,power bi,12,0.84,Data & Analytics
+Software Engineer,tableau,8,0.56,Data & Analytics
+Software Engineer,pandas,7,0.49,Data & Analytics
+Software Engineer,numpy,7,0.49,Data & Analytics
+Software Engineer,machine learning,134,9.33,Machine Learning
+Software Engineer,deep learning,18,1.25,Machine Learning
+Software Engineer,scikit-learn,9,0.63,Machine Learning
+Software Engineer,tensorflow,24,1.67,Machine Learning
+Software Engineer,pytorch,27,1.88,Machine Learning
+Software Engineer,statistics,17,1.18,Data & Analytics
+Software Engineer,r,57,3.97,Programming
+Software Engineer,mysql,74,5.15,Databases
+Software Engineer,postgresql,62,4.32,Databases
+Software Engineer,aws,426,29.67,Cloud
+Software Engineer,azure,339,23.61,Cloud
+Software Engineer,gcp,190,13.23,Cloud
+Software Engineer,git,222,15.46,DevOps
+Software Engineer,github,82,5.71,DevOps
+Software Engineer,docker,261,18.18,DevOps
+Software Engineer,kubernetes,278,19.36,DevOps
+Software Engineer,fastapi,9,0.63,Web Development
+Software Engineer,flask,15,1.04,Web Development
+Software Engineer,django,24,1.67,Web Development
+Software Engineer,java,590,41.09,Programming
+Software Engineer,javascript,400,27.86,Programming
+Software Engineer,c++,336,23.4,Programming
+Software Engineer,c#,244,16.99,Programming
+Software Engineer,html,212,14.76,Web Development
+Software Engineer,css,180,12.53,Web Development
+Software Engineer,react,257,17.9,Web Development

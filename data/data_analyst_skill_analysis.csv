@@ -1,0 +1,30 @@
+skill,job_count,percentage
+sql,246,60.29
+excel,147,36.03
+python,139,34.07
+statistics,85,20.83
+tableau,84,20.59
+power bi,64,15.69
+r,61,14.95
+machine learning,54,13.24
+javascript,45,11.03
+html,42,10.29
+c++,41,10.05
+c#,38,9.31
+aws,32,7.84
+azure,20,4.9
+java,11,2.7
+git,7,1.72
+postgresql,4,0.98
+github,4,0.98
+gcp,3,0.74
+kubernetes,3,0.74
+docker,3,0.74
+mysql,3,0.74
+numpy,3,0.74
+pandas,2,0.49
+scikit-learn,2,0.49
+tensorflow,1,0.25
+pytorch,1,0.25
+deep learning,1,0.25
+css,1,0.25
